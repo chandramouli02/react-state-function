@@ -1,0 +1,22 @@
+.main-container {
+  text-align: center;
+  padding: 30px;
+  margin: 10%;
+  font-family: Roboto;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  color: white;
+  height: 50vh;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}
+
+button {
+  height: 40px;
+  width: 140px;
+  border: 0px solid;
+  border-radius: 8px;
+}
